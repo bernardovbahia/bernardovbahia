@@ -6,7 +6,7 @@
 - 🤔 Estou procurando ajuda para aprimorar minhas habilidades em programação e análise de dados.
 - 💬 Pergunte-me sobre analise de vendas, segurança da informação ou qualquer assunto relacionado à tecnologia.
 - 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: Adoro xadrez videogame nas horas vagas!
+- ⚡ Curiosidade: Adoro jogar xadrez nas horas vagas!
 ## 
 
 <div>
