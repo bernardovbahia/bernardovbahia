@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🔭 Atualmente trabalho como Analista de Venda.
+- 🔭 Atualmente trabalho como Analista de Vendas.
 - 🌱 Estou estudando Segurança da Informação no Centro Universitário Una.
 - 👯 Estou buscando colaborar em projetos relacionados a análise de dados, tecnologia e segurança da informação.
 - 🤔 Estou procurando ajuda para aprimorar minhas habilidades em programação e análise de dados.
