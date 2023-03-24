@@ -3,16 +3,22 @@
 - 🔭 Atualmente trabalho como Analista de Venda.
 - 🌱 Estou estudando Segurança da Informação no Centro Universitário Una.
 - 👯 Estou buscando colaborar em projetos relacionados a análise de dados, tecnologia e segurança da informação.
-- 🤔 Estou procurando ajuda com aprimorar minhas habilidades em programação e análise de dados.
+- 🤔 Estou procurando ajuda para aprimorar minhas habilidades em programação e análise de dados.
 - 💬 Pergunte-me sobre analise de vendas, segurança da informação ou qualquer assunto relacionado à tecnologia.
-- 📫 Você pode entrar em contato comigo pelo e-mail bahiavalladares@gmail.com.
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Adoro xadrez videogame nas horas vagas!
 ## 
+
+<div>
+<a href="https://instagram.com/bahiavalladares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="mailto:bahiavalladares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/bernardovbahia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
 <div>
   <a href="https://beacons.ai/bernardovbahia"> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardovbahia&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>   
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardovbahia&layout=compact&langs_count=16&theme=gotham"/> 
+   
   </a>
 </div>
 <br>
@@ -27,10 +33,6 @@
 
 ##
 
-<div>
-<a href="https://instagram.com/bahiavalladares" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:bahiavalladares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/bernardovbahia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
 
 ##
